@@ -1,2 +1,2 @@
-# ServidorHTTP-SSL-TLS-certify
+# ServidorClienteSocketHTTPsSeguro
 Aplicar  SSL/TLS com certificado gerado por uma Autoridade Certificadora criada, em um Servidor HTTPS desenvolvido por socket
